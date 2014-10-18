@@ -1,0 +1,6 @@
+#iphone-container{
+	width : 400px;
+	margin : 0 auto;
+	background: #aaa url("../img/earth.png")  top center;
+	background-size: cover;
+}
